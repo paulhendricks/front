@@ -1,5 +1,5 @@
 ---
-name: Birgerboard
+name: Birgerboard Alternative
 price: 580
 weight: 3.66
 designer: Birgers Oterutleie
